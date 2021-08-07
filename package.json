@@ -122,7 +122,7 @@
     "remark-emoji": "^2.2.0",
     "remark-extract-anchors": "1.1.1",
     "remark-frontmatter": "^3.0.0",
-    "remark-gfm": "^1.0.0",
+    "remark-gfm": "^2.0.0",
     "remark-html": "^13.0.1",
     "remark-loader": "^4.0.0",
     "remark-refractor": "git://github.com/montogeek/remark-refractor.git",
@@ -161,7 +161,7 @@
     "unist-util-visit": "^2.0.3",
     "webpack-pwa-manifest": "^4.3.0",
     "webpack.vote": "https://github.com/webpack/voting-app.git",
-    "workbox-window": "^6.2.0"
+    "workbox-window": "^6.2.2"
   },
   "resolutions": {
     "sitemap-static/minimist": "1.2.5",
